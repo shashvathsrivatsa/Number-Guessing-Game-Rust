@@ -1,1 +1,1 @@
-# this is the readme 
+Number guessing game made with rust
