@@ -1,0 +1,16 @@
+# Ignore Cargo artifacts
+/target/
+
+# Ignore compiled binaries
+**/target/release/
+**/target/debug/
+
+# Ignore Cargo.lock
+Cargo.lock
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+file1
+
